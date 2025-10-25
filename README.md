@@ -2,4 +2,4 @@
 (line13) double_flags = [True, True, True, True, True, True] <- Set double situation  
 (line39) if goal_shard < total_shard < goal_shard + 5000: <- control the range of Shards we get(min=20000 < total_shard < max=min+ "what do you want to set?" )  
 
-##How to Install python?
+#How to Install python?#
